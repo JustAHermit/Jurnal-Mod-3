@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\Modul3_103022430010\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|c:\\users\\mybook hype amd\\documents\\college material\\vsc stuff\\modul3_103022430010\\modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|solutionrelative:modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|c:\\users\\mybook hype amd\\documents\\college material\\vsc stuff\\modul3_103022430010\\modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|solutionrelative:modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|c:\\users\\mybook hype amd\\documents\\college material\\vsc stuff\\modul3_103022430010\\modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|solutionrelative:modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|c:\\users\\mybook hype amd\\documents\\college material\\vsc stuff\\modul3_103022430010\\modul3_103022430010\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCB4F0A-11A7-4331-CD61-B1E5D4E222C7}|Modul3_103022430010\\Modul3_103022430010.csproj|solutionrelative:modul3_103022430010\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +26,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\Modul3_103022430010\\Modul3_103022430010\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Modul3_103022430010\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\Modul3_103022430010\\Modul3_103022430010\\Form1.Designer.cs",
+              "RelativeToolTip": "Modul3_103022430010\\Form1.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:02:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\Modul3_103022430010\\Modul3_103022430010\\Form1.cs",
               "RelativeDocumentMoniker": "Modul3_103022430010\\Form1.cs",
               "ToolTip": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\Modul3_103022430010\\Modul3_103022430010\\Form1.cs",
               "RelativeToolTip": "Modul3_103022430010\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T23:53:56.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\Modul3_103022430010\\Modul3_103022430010\\Form1.cs",
               "RelativeDocumentMoniker": "Modul3_103022430010\\Form1.cs",

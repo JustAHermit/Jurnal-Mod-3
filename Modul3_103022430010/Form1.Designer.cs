@@ -45,6 +45,7 @@
             // 
             comboBox1.AllowDrop = true;
             comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "Celcius", "Farenheit", "Kelvin", "Reamur" });
             comboBox1.Location = new Point(114, 130);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(151, 28);
@@ -59,7 +60,6 @@
             label1.Size = new Size(91, 20);
             label1.TabIndex = 1;
             label1.Text = "Satuan Awal";
-            label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -69,7 +69,6 @@
             label2.Size = new Size(77, 20);
             label2.TabIndex = 2;
             label2.Text = "Nilai Awal";
-            label2.Click += label2_Click;
             // 
             // label3
             // 
@@ -79,7 +78,6 @@
             label3.Size = new Size(92, 20);
             label3.TabIndex = 5;
             label3.Text = "Satuan Akhir";
-            label3.Click += this.label3_Click;
             // 
             // label4
             // 
@@ -89,12 +87,12 @@
             label4.Size = new Size(78, 20);
             label4.TabIndex = 4;
             label4.Text = "Nilai Akhir";
-            label4.Click += this.label4_Click;
             // 
             // comboBox2
             // 
             comboBox2.AllowDrop = true;
             comboBox2.FormattingEnabled = true;
+            comboBox2.Items.AddRange(new object[] { "Celcius", "Farenheit", "Kelvin", "Reamur" });
             comboBox2.Location = new Point(114, 235);
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(151, 28);
@@ -109,7 +107,7 @@
             button1.TabIndex = 6;
             button1.Text = "Convert";
             button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            button1.Click += Convert;
             // 
             // contextMenuStrip1
             // 
@@ -123,6 +121,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(211, 27);
             textBox1.TabIndex = 8;
+            textBox1.TextChanged += textBox1_TextChanged_1;
             // 
             // textBox2
             // 
@@ -130,6 +129,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(211, 27);
             textBox2.TabIndex = 9;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // Form1
             // 
